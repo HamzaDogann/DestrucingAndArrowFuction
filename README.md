@@ -1,5 +1,5 @@
 # DestrucingAndArrowFuction
 
-Kendim için hazırladığım bir içerik
+Kendim için hazırladığım bir içerik.
 
-A content I prepared for myself
+A content I prepared for myself.
